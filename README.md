@@ -37,8 +37,8 @@ You can install Post-Auth-Comment by using the GUI installer.
 Howwever, you dont need to register in order to scroll through the posts,
 users login details -
 
-Email: user@mail
-Password: 12345678
+1. Email: user@mail
+2. Password: 12345678
 
 # Personal experience while creating the App:
 =============================================

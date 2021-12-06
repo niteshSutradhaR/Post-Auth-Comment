@@ -25,11 +25,11 @@ Composer: 2.0.12 or higher.
 ==============================
 
 You can install Post-Auth-Comment by using the GUI installer.
-   a. Download zip .
-   b. Extract the contents of the zip .
-   c. Use the db file .
-   d. On the server run the command: composer install 
-   e. On local: php artisan serve
+1. Download zip .
+2. Extract the contents of the zip .
+3. Use the db file .
+4. On the server run the command: composer install 
+5. On local: php artisan serve
    
 # How to log in as User:
 ========================
